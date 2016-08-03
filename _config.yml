@@ -6,9 +6,10 @@ color:
   saturation: 0.8007644361350685
   rhythmicContrast: 0.7213238091208041
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Testco
+title: This is a new website

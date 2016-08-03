@@ -1,0 +1,14 @@
+layout_spectrum: 0.24743554694578052
+typography_spectrum: 0.19406697223894298
+color:
+  brandStrength: 0.9929411350749433
+  lightness: 0.6746911534573883
+  saturation: 0.8007644361350685
+  rhythmicContrast: 0.7213238091208041
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Testco

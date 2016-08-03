@@ -1,4 +1,3 @@
-layout_spectrum: 0.24743554694578052
 typography_spectrum: 0.19406697223894298
 color:
   brandStrength: 0.9929411350749433
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.24743554694578052
 name: Testco
 title: This is a new website
+description: Get on board!
